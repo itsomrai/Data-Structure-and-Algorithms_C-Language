@@ -1,4 +1,4 @@
-// Concept=LOOP
+// Concept=LOOPING
 #include <stdio.h>
 int main()
 {
